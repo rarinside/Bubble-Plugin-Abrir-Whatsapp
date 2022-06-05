@@ -1,0 +1,23 @@
+{
+    "category": "plugins",
+    "display": "Abrir_Whatsapp",
+    "fields": {
+        "AAD": {
+            "caption": "Número do Telefone",
+            "doc": "Utilize o número de telefone completo, incluindo o DDI e DDD - Não pode conter \"(\" ou \")\" e \"-\")",
+            "editor": "DynamicValue",
+            "name": "numero",
+            "rank": 0,
+            "value": "number"
+        },
+        "AAE": {
+            "caption": "Mensagem",
+            "doc": "Digite a Mensagem Desejada:",
+            "editor": "DynamicValue",
+            "name": "mensagem",
+            "rank": 1,
+            "value": "text"
+        }
+    },
+    "type": "client_side"
+}

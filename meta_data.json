@@ -1,0 +1,11 @@
+{
+    "categories": {
+        "0": "customer support",
+        "1": "productivity"
+    },
+    "description": "Com esse Plugin, você precisa apenas dizer o número e a mensagem que gostaria enviar e pronto. Lembre-se que devem usar os número completos. Ex.: 5511999999999\n\nNão podem conter \"-\" ou \"(\" ou \")\"\n\nUtilize o Find Replace para retirar.",
+    "image": "//s3.amazonaws.com/appforest_uf/f1654387372435x671729677205164700/logo%20rar%20whats.png",
+    "license": "open_source",
+    "name": "Abrir Whatsapp",
+    "plugin_instructions": "\nNão podem conter \"-\" ou \"(\" ou \")\"\n\nUtilize o [Find Replace] para retirar."
+}
